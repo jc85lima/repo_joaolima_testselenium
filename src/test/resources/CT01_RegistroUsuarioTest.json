@@ -1,0 +1,11 @@
+{
+	"url": "http://demoqa.com/",
+	"firstName": "Teste",
+	"lastName": "QA",
+	"hobby": "Dance",
+	"phoneNumber": "999999999999",
+	"username": "TesteQA123",
+	"email": "testeqa@abc.com",
+	"password": "12345678",
+	"mensagemSistema": "Error: Username already exists"
+}
